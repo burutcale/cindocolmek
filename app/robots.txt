@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://cindocolmek.pages.dev/sitemap.xml
